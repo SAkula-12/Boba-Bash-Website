@@ -1,0 +1,25 @@
+body {
+
+    background-color: aqua;
+}
+
+img {
+    width: 450px;
+    height: 450px;
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+.total {
+    display: flex;
+    gap: 5cm;
+    margin-left: 6cm;
+
+}
+
